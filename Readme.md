@@ -3,7 +3,7 @@
 
 ### Usage
 ```
-Usage of ./cfcache_linux.bin:
+Usage of ./kcfcache_linux.bin:
   -asset string
         The type of the assets (default "all")
         Choices: ['css', 'js', 'images', 'all']
@@ -13,8 +13,8 @@ Usage of ./cfcache_linux.bin:
 
 ### Examples
 ```
-./cfcache_linux.bin --url=https://site.tld
-./cfcache_linux.bin --url=https://site.tld --asset=css
-./cfcache_linux.bin --url=https://site.tld --asset=js
-./cfcache_linux.bin --url=https://site.tld --asset=images
+./kcfcache_linux.bin --url=https://site.tld
+./kcfcache_linux.bin --url=https://site.tld --asset=css
+./kcfcache_linux.bin --url=https://site.tld --asset=js
+./kcfcache_linux.bin --url=https://site.tld --asset=images
 ```
