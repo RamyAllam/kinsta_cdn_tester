@@ -1,7 +1,9 @@
 ## Kinsta CloudFlare CDN Tester
-#### This tool scrapes a URL to gather the local static assets files such as images, CSS and JS. And returns the relevant headers and the status code
+#### This tool is written to test Kinsta CDN caching based on CloudFlare. It scrapes a URL to gather the local static assets files such as images, CSS and JS. And returns the relevant headers and the status code.
 
 ### Usage
+Download the release file from: https://github.com/RamyAllam/kinsta_cdn_tester/releases
+
 ```
 Usage of ./kcfcache_linux.bin:
   -asset string
