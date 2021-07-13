@@ -1,0 +1,4 @@
+dev_app_*
+config.yaml
+*.bin
+gobuilds/
